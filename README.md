@@ -4,7 +4,6 @@ This project is a **digital clock and calendar** based on the **STM32F103C8T6** 
 
 The project utilizes the **DS3231 RTC** IC for accurate timekeeping and an **AT24C32 EEPROM** for data storage.
 
----
 
 ## 💡 Features
 
@@ -13,7 +12,6 @@ The project utilizes the **DS3231 RTC** IC for accurate timekeeping and an **AT2
 - Uses **DS3231** for real-time clock functionality
 - Includes **AT24C32 EEPROM** for non-volatile data storage
 
----
 
 ## 🔧 Hardware Components
 
